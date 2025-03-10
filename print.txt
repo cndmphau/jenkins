@@ -1,0 +1,4 @@
+print("""\
+xxxx
+yyy
+")
